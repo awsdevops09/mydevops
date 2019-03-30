@@ -8,3 +8,4 @@ echo $(whoami)
 echo $(id -un)
 echo "comments"
 #testing windows1
+#test2 
