@@ -6,3 +6,4 @@ echo $(hostname)
 echo $(whoami)
 #current user
 echo $(id -un)
+echo "comments"
